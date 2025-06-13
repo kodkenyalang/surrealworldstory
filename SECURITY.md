@@ -16,7 +16,7 @@ We take security vulnerabilities seriously. If you discover a security vulnerabi
 ### Reporting Process
 
 1. **Do NOT** open a public GitHub issue for security vulnerabilities
-2. Email security details to: [security@verifydip.com]
+2. Email security details to: aaron dot ong at zoho dot com
 3. Include detailed information about the vulnerability
 4. Provide steps to reproduce if possible
 5. Allow reasonable time for response and fix
